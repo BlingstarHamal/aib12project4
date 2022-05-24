@@ -2,6 +2,8 @@
 
 https://www.kaggle.com/datasets/divyansh22/dummy-astronomy-data
 
+별-은하 이미지를 ResNet50을 이용해서 분류 하기
+
 p4.ipynb 초기 진행 과정
 
 p4-es.ipynb early-stopping 적용
